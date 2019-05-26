@@ -6,3 +6,4 @@ this related to defect fix
 this is before stashing
 this is during stashing
 this is for pull practise
+this is remote changes for pull request
